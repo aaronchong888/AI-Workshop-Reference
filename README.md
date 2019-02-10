@@ -1,6 +1,6 @@
 # AI Workshop Reference
 
-This repo provides technical resources to help developers get started with Microsoft AI services.
+This repo provides some useful technical resources to help developers get started with Microsoft AI services.
 
 <br>
 
@@ -16,7 +16,7 @@ This repo provides technical resources to help developers get started with Micro
 
     - [Code Samples](https://azure.microsoft.com/en-us/resources/samples/?service=cognitive-services&term=vision&sort=0)
 
-        | Projects | |
+        | Github | |
         | - | - |
         | [Cognitive Services C# SDK](https://github.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts) | C# |
         | [Cognitive Services Node.js SDK](https://github.com/Azure-Samples/cognitive-services-node-sdk-samples) | Node.js |
@@ -36,7 +36,7 @@ This repo provides technical resources to help developers get started with Micro
 
     - [Code Samples](https://azure.microsoft.com/en-us/resources/samples/?service=cognitive-services&term=Face&sort=0)
 
-        | Projects | |
+        | Github | |
         | - | - |
         | [Cognitive Services C# SDK](https://github.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts) | C# |
         | [Cognitive Services Python SDK](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples) | Python |
@@ -58,7 +58,7 @@ This repo provides technical resources to help developers get started with Micro
 
     - [Code Samples](https://azure.microsoft.com/en-us/resources/samples/?service=cognitive-services&term=vision&sort=0)
 
-        | Projects | |
+        | Github | |
         | - | - |
         | [Cognitive Services C# SDK](https://github.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts) | C# |
         | [Cognitive Services Python SDK](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples) | Python |
@@ -72,6 +72,29 @@ This repo provides technical resources to help developers get started with Micro
 <br>
 
 ### [Speech](https://azure.microsoft.com/en-us/services/cognitive-services/directory/speech/)
+
+- [Speech Services](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/overview) ([Speech to Text](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) + [Text to Speech](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) + [Speech Translation](https://azure.microsoft.com/en-us/services/cognitive-services/speech-translation/))
+
+    - [Quickstarts](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-recognize-speech-csharp)
+
+            cURL - C# - C++ - Java
+
+    - [Code Samples](https://azure.microsoft.com/en-us/resources/samples/?service=cognitive-services&term=speech&sort=0)
+
+        | Github | |
+        | - | - |
+        | [Cognitive Services Speech SDK](https://github.com/Azure-Samples/cognitive-services-speech-sdk) | C++ - C# - Java - JavaScript - Node.js - Python - Objective-C |
+        | [Call Center First Contact](https://github.com/Azure-Samples/cognitive-services-csharp-call-center) | C# |
+        | [Speech API - Text to Speech](https://github.com/aaronchong888/Azure-Speech-TextToSpeech) | Node.js |
+
+    - [API Reference](https://docs.microsoft.com/en-us/azure/cognitive-services/Speech-Service/rest-apis)
+
+    - [Customize Speech Features](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/overview#customize-speech-features)
+        - [Custom Speech](https://cris.ai/Home/CustomSpeech)
+        - [Custom Voice](https://cris.ai/Home/CustomVoice)
+
+<br>
+
 ### [Language](https://azure.microsoft.com/en-us/services/cognitive-services/directory/lang/)
 ### [Knowledge](https://azure.microsoft.com/en-us/services/cognitive-services/directory/know/)
 ### [Search](https://azure.microsoft.com/en-us/services/cognitive-services/directory/search/)
