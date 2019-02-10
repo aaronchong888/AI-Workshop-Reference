@@ -1,6 +1,6 @@
 # AI Workshop Reference
 
-<p align="center"><img alt="" src="https://github.com/aaronchong888/Azure-Face-EmotionRecognition/blob/master/msft_raccoon.png" width="30%"></p>
+<p align="center"><img alt="" src="https://github.com/aaronchong888/AI-Workshop-Reference/blob/master/msft_raccoon.png" width="30%"></p>
 
 This repo provides some useful technical resources to help developers get started with Microsoft AI services.
 
