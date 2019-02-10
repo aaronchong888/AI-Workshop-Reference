@@ -1,6 +1,6 @@
 # AI Workshop Reference
 
-<img style="float: right;" src="https://github.com/aaronchong888/AI-Workshop-Reference/blob/master/msft_raccoon.png" width="15%">
+<img align="right" src="https://github.com/aaronchong888/AI-Workshop-Reference/blob/master/msft_raccoon.png" width="10%">
 
 This repo provides some useful technical resources to help developers get started with Microsoft AI services.
 
