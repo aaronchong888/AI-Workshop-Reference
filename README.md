@@ -1,7 +1,8 @@
 # AI Workshop Reference
 
 This repo provides technical resources to help developers get started with Microsoft AI services.
-<br>
+
+<br><br>
 
 ## Microsoft Cognitive Services
 
