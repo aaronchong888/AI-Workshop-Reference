@@ -1,8 +1,8 @@
 # AI Workshop Reference
 
-This repo provides some useful technical resources to help developers get started with Microsoft AI services.
+<img style="float: right;" src="https://github.com/aaronchong888/AI-Workshop-Reference/blob/master/msft_raccoon.png" width="15%">
 
-<p align="center"><img alt="" src="https://github.com/aaronchong888/AI-Workshop-Reference/blob/master/msft_raccoon.png" width="10%"></p>
+This repo provides some useful technical resources to help developers get started with Microsoft AI services.
 
 ## Microsoft Cognitive Services
 
