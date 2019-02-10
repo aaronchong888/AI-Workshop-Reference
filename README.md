@@ -103,3 +103,14 @@ This repo provides some useful technical resources to help developers get starte
 ### [Knowledge](https://azure.microsoft.com/en-us/services/cognitive-services/directory/know/)
 ### [Search](https://azure.microsoft.com/en-us/services/cognitive-services/directory/search/)
 
+## Azure Bot Service
+
+## Azure Machine Learning
+
+## Credits
+
+* **Delon Yau** - [Data-Science-Workshop](https://github.com/tikyau/Data-Science-Workshop)
+
+## Contributors
+
+* **Aaron Chong** - [aaronchong888](https://github.com/aaronchong888)
