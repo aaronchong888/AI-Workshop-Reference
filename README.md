@@ -90,6 +90,7 @@ This repo provides some useful technical resources to help developers get starte
         | [Cognitive Services Speech SDK](https://github.com/Azure-Samples/cognitive-services-speech-sdk) | C++ - C# - Java - JavaScript - Node.js - Python - Objective-C |
         | [Call Center First Contact](https://github.com/Azure-Samples/cognitive-services-csharp-call-center) | C# |
         | [Speech API - Text to Speech](https://github.com/aaronchong888/Azure-Speech-TextToSpeech) | Node.js |
+        | [Speech API - Speech to Text](https://github.com/aaronchong888/Azure-Speech-SpeechToText) | JavaScript |
 
     - [API Reference](https://docs.microsoft.com/en-us/azure/cognitive-services/Speech-Service/rest-apis)
 
