@@ -141,7 +141,32 @@ This repo provides some useful technical resources to help developers get starte
 <br>
 
 ### [Knowledge](https://azure.microsoft.com/en-us/services/cognitive-services/directory/know/)
+
+- [QnA Maker](https://azure.microsoft.com/en-us/services/cognitive-services/qna-maker/)
+
+    - [Quickstarts](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/how-to/create-knowledge-base)
+
+            C# - Go - Java - Node.js - Python
+
+    - [Tutorial: Create a QnA Bot](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-qna?view=azure-bot-service-4.0&tabs=cs)
+
+            Using Bot Framework SDK v4
+
+    - [API Reference - v4.0](https://westus.dev.cognitive.microsoft.com/docs/services/5a93fcf85b4ccd136866eb37/operations/5ac266295b4ccd1554da75ff)
+
+<br>
+
 ### [Search](https://azure.microsoft.com/en-us/services/cognitive-services/directory/search/)
+
+- [Bing News Search](https://azure.microsoft.com/en-us/services/cognitive-services/bing-news-search-api/)
+
+    - [Quickstarts](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-news-search/csharp)
+
+            C# - Java - Node.js - PHP - Python - Ruby
+
+    - [Code Samples](https://azure.microsoft.com/en-us/resources/samples/?sort=0&service=cognitive-services&term=Bing+News+Search)
+
+    - [API Reference - v7.0](https://dev.cognitive.microsoft.com/docs/services/e5e22123c5d24f1081f63af1548defa1/operations/56b449fbcf5ff81038d15cdf)
 
 <br>
 
