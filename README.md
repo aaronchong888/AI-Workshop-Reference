@@ -13,6 +13,7 @@ This repo provides technical resources to help developers get started with Micro
             cURL - C# - Go - Java - JavaScript - Node.js - PHP - Python - Ruby
 
     - [Code Samples](https://azure.microsoft.com/en-us/resources/samples/?service=cognitive-services&term=vision&sort=0)
+    
         | Projects | |
         | - | - |
         | [Cognitive Services C# SDK](https://github.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts) | C# |
