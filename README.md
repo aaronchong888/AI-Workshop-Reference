@@ -103,13 +103,70 @@ This repo provides some useful technical resources to help developers get starte
 ### [Knowledge](https://azure.microsoft.com/en-us/services/cognitive-services/directory/know/)
 ### [Search](https://azure.microsoft.com/en-us/services/cognitive-services/directory/search/)
 
+<br>
+
 ## Azure Bot Service
 
+- [Quickstarts](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-quickstart?view=azure-bot-service-4.0)
+
+        Using Bot Framework SDK v4
+
+- [Bot Builder Samples](https://github.com/Microsoft/BotBuilder-Samples)
+
+        C# - JavaScript - Node.js - TypeScript
+
+<br>
+
 ## Azure Machine Learning
+
+- [Azure Machine Learning Studio](https://azure.microsoft.com/en-us/services/machine-learning-studio/)
+
+    - [Tutorial: Create your first data science experiment](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment)
+        - [Deploy an Azure Machine Learning web service](https://docs.microsoft.com/en-us/azure/machine-learning/studio/publish-a-machine-learning-web-service)
+
+    - [Algorithm Choice](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice)
+        - [Algorithm Cheat Sheet](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-sheet)
+    
+    - Samples
+
+        | Scenario | |
+        | - | - |
+        | Credit Risk Assessment | [Link](https://docs.microsoft.com/en-us/azure/machine-learning/studio/walkthrough-develop-predictive-solution) |
+        | Customer Churn | [Link](https://docs.microsoft.com/en-us/azure/machine-learning/studio/azure-ml-customer-churn-scenario) |
+        | Sentiment Analysis | [Link](https://docs.microsoft.com/en-us/azure/machine-learning/studio/text-analytics-module-tutorial) |
+
+<br>
+
+- [Azure Machine Learning Service](https://azure.microsoft.com/en-us/services/machine-learning-service/)
+
+    - [Quickstarts](https://docs.microsoft.com/en-us/azure/machine-learning/service/quickstart-get-started)
+
+            Portal - Python
+
+    - Tutorials
+
+        | Scenario | |
+        | - | - |
+        | Image Classification | [Link](https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-train-models-with-aml) |
+        | Regression | [Link](https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-data-prep) |
+
+    - [Example Notebooks](https://github.com/Azure/MachineLearningNotebooks)
+
+<br>
+
+| Useful Resources | |
+| - | - |
+| [Azure AI Gallery](https://gallery.azure.ai/) | A community-driven site for discovering and sharing solutions built with Azure AI |
+| [Machine Learning Data Sets](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-use-sample-datasets) | Data sets shared by Azure Machine Learning team to help explore machine learning |
+| [Microsoft Research Data Sets](http://aka.ms/datascience) | Data sets shared by Microsoft Research for academic use |
+
+<br>
 
 ## Credits
 
 * **Delon Yau** - [Data-Science-Workshop](https://github.com/tikyau/Data-Science-Workshop)
+
+<br>
 
 ## Contributors
 
