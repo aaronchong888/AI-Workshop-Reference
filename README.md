@@ -100,6 +100,46 @@ This repo provides some useful technical resources to help developers get starte
 <br>
 
 ### [Language](https://azure.microsoft.com/en-us/services/cognitive-services/directory/lang/)
+
+- [Text Analytics](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
+
+    - [Quickstarts](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/quickstarts/csharp)
+
+            C# - Go - Java - Node.js - PHP - Python - Ruby
+
+    - [Code Samples](https://azure.microsoft.com/en-us/resources/samples/?service=cognitive-services&term=text&sort=0)
+
+        | Github | |
+        | - | - |
+        | [Cognitive Services Node.js SDK](https://github.com/Azure-Samples/cognitive-services-node-sdk-samples) | Node.js |
+        | [Cognitive Services Python SDK](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples) | Python |
+        | [Call Center First Contact](https://github.com/Azure-Samples/cognitive-services-csharp-call-center) | C# |
+
+    - [API Reference - v2.0](https://westus.dev.cognitive.microsoft.com/docs/services/TextAnalytics.V2.0/operations/56f30ceeeda5650db055a3c7)
+
+<br>
+
+- [Language Understanding (LUIS)](https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/)
+
+    - [Quickstarts](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-get-started-create-app)
+
+            C# - Go - Java - Node.js - Python
+
+    - [Code Samples](https://github.com/Azure-Samples/cognitive-services-language-understanding)
+
+        | Github | |
+        | - | - |
+        | [Language Understanding (LUIS) Samples Repository](https://github.com/Azure-Samples/cognitive-services-language-understanding) | C# - Java - Node.js - JavaScript - Python - PHP - Ruby - Go |
+        | [Cognitive Services Python SDK](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples) | Python |
+        | [LUIS Console Application](https://github.com/Azure-Samples/Cognitive-Services-LUIS-Console-Application) | C# |
+        | [LUIS Programmatic SDK Console Application](https://github.com/Azure-Samples/Cognitive-Services-LUIS-Programmatic-Console) | C# |
+
+    - API Reference
+        - [Programmatic API - v2.0](https://westus.dev.cognitive.microsoft.com/docs/services/5890b47c39e2bb17b84a55ff/operations/5890b47c39e2bb052c5b9c2f)
+        - [Endpoint API](https://westus.dev.cognitive.microsoft.com/docs/services/5819c76f40a6350ce09de1ac/operations/5819c77140a63516d81aee78)
+    
+<br>
+
 ### [Knowledge](https://azure.microsoft.com/en-us/services/cognitive-services/directory/know/)
 ### [Search](https://azure.microsoft.com/en-us/services/cognitive-services/directory/search/)
 
